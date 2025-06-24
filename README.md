@@ -13,7 +13,7 @@
 
 - 🎓 Software Engineering Student at **Damascus University**, graduating in **September 2025**  
 - 💻 Passionate about **Flutter** and building **scalable, user-centric applications**
-- 🧠 Currently exploring: **Flutter Web**, **Clean Architecture**, and **Firebase**
+- 🧠 Currently exploring: **Flutter**, **Clean Architecture**,  **Firebase** and **Supabase**
 - 🌱 I enjoy contributing to open-source and building side projects
 - 🧩 Interested in UI/UX, product thinking, and performance optimization
 
@@ -21,10 +21,10 @@
 
 ### 🚀 Projects I'm Proud Of
 
-#### 🚌 Graduation Project - Cross-Border Bus Booking & Logistics System
+#### 🚌 Graduation Project - Cross-Border Bus Booking & Logistics System *(in progress)*
 > A complete ecosystem for booking buses between Syria and Jordan, including apps for users, drivers, and admins using Flutter + REST APIs + Cubit.
 
-#### 📂 Folderit – Document Management Platform *(in progress)*
+#### 📂 Folderit – Document Management Platform 
 > Web-based Flutter app for secure document storage, permissions, and version control.
 
 #### 🏘️ Real Estate App *(2024)*
@@ -42,6 +42,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
