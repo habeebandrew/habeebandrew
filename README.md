@@ -55,10 +55,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habeebandraws&show_icons=true&theme=radical" alt="Habeeb's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=habeebandraws&show_icons=true&theme=radical" alt="Habeeb's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habeebandraws&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=habeebandraws&theme=radical" />
 </p>
+
 
 ---
 
